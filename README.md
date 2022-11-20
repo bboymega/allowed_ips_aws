@@ -1,5 +1,5 @@
 # allowed_ips_aws
-Generate AllowedIPs for AWS IP blocks
+Generate wireguard AllowedIPs for AWS IP blocks
 
 
 # Saving to file
